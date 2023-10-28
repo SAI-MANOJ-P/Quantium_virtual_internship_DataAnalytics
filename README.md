@@ -23,9 +23,13 @@ Check out virtual internship experience [here](https://www.theforage.com/virtual
 
   Resource file for task two.
 
-- [QVI_Task3_presentation.pptx](QVI_Task3_presentation.pptx)
+- [QVI_Task3_presentation.pptx](QVI_Task3_presentation.pptx) or [QVI_Task3_Report.pdf](QVI_Task3_Report.pdf)
 
   Presentation of the analysis.
+
+- [QVI_Client_Email.docx](QVI_Client_Email.docx)
+
+  The email to the client summarizing all the findings.
 
 ## Tools Used
 - **Programming Language:** Python

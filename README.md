@@ -11,7 +11,7 @@ Check out virtual internship experience [here](https://www.theforage.com/virtual
 
   Task 1: Data preparation and customer analytics. Conduct analysis on your client's transaction dataset and identify customer purchasing behaviors to generate insights and provide commercial recommendations. This file comprises code for that.
 
-- [QVI_purchase_behavior.csv](QVI_purchase_behavior.csv) & [QVI_transaction_data.csv](QVI_transaction_data.csv)
+- [QVI_purchase_behaviour.csv](QVI_purchase_behaviour.csv) & [QVI_transaction_data.csv](QVI_transaction_data.csv)
 
   These are the resource files for task one.
 
@@ -19,7 +19,7 @@ Check out virtual internship experience [here](https://www.theforage.com/virtual
 
   Task 2: Experimentation and uplift testing. Examine the performance in trial vs control stores to provide a recommendation for each location based on our insights. In this task, trial stores are those where specific changes or interventions have been implemented, while control stores are used as a reference group for comparison. The analysis aims to evaluate the impact of these changes on store performance. This file comprises code for that.
 
-- [QVI_data.xlsx](QVI_data.xlsx)
+- [QVI_data.csv](QVI_data.csv)
 
   Resource file for task two.
 
